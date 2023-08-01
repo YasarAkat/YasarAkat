@@ -1,4 +1,4 @@
-[![MasterHead](https://www.business-magazine.mu/wp-content/uploads/2021/10/coding.jpg))
+
 <h1 align="center">Hi 👋, I'm Yaşar Mehmet Akat</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
