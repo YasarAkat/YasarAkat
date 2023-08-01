@@ -23,5 +23,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yasarakat&show_icons=true&locale=en" alt="yasarakat" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yasarakat&" alt="yasarakat" /></p>
-
-![snake gif](https://github.com/YasarAkat/YasarAkat/blob/output/github-contribution-grid-snake.gif)
