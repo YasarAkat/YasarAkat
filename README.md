@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Yaşar Mehmet Akat</h1>
 <h3 align="center">A passionate backend developer from Turkey</h3>
 
-- 🔭 I’m currently working on [MyFinalProject2](https://github.com/YasarAkat/ReCapProject2)
+- 🔭 I’m currently working on [ReCapProject2](https://github.com/YasarAkat/ReCapProject2)
 
 - 🌱 I’m currently learning **C#**
 
 - 👨‍💻 All of my projects are available at [https://github.com/YasarAkat](https://github.com/YasarAkat)
 
-- 📫 How to reach me **akat434@gmail.com**
+- 📫 How to reach me **yasarmehmetakat@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
